@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related Question Answer APIs "
+  message: "Welcome to EazyBank accounts related QA APIs "
   contactDetails:
     name: "Arjun - QA Lead"
     email: "smitha@eazybank.com"
