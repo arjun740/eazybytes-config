@@ -1,8 +1,8 @@
 build:
-  version: "69.0"
+  version: "6.0"
 
 accounts:
-  message: "Welcome to Arjun accounts related Webhook APIs "
+  message: "Welcome to eazy bank accounts related local APIs "
   contactDetails:
     name: "John Doe - Developer"
     email: "john@eazybank.com"
