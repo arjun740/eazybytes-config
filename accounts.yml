@@ -1,5 +1,5 @@
 build:
-  version: "4.0"
+  version: "69.0"
 
 accounts:
   message: "Welcome to Arjun accounts related Webhook APIs "
